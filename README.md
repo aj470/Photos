@@ -6,6 +6,7 @@ This README would help you understand the application and how to get it up runni
 
 * A photo album library project implementing MVC allowing users to create accounts and  create photo albums with serializable image storage.
 * Some Important Funcationality includes, captionaning the photo, tagging the photos, moving and copying photos, and search photos.
+* We optimized some of the Scenes and funcationality after submitting the overview documentation.
 * [Learn through Storyboard](https://github.com/aj470/Photos/blob/master/docs/Photos%20Storyboard.pdf)
 
 ### How do I get set up? ###
