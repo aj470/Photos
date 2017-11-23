@@ -1,30 +1,25 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README would help you understand the application and how to get it up running.
 
 ### What is this repository for? ###
 
 * A photo album library project implementing MVC allowing users to create accounts and  create photo albums with serializable image storage.
 * Some Important Funcationality includes, captionaning the photo, tagging the photos, moving and copying photos, and search photos.
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [Learn through Storyboard](https://github.com/aj470/Photos/blob/master/docs/Photos%20Storyboard.pdf)
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Download or clone the repository.
+* Install java Eclipse
+* Import the project
+* run photos.java
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* The project is part of Software Methodology Class.
+* Project is developed by me(Ayush Joshi) and [Anil Tilve](https://github.com/aniltilve)
 
 ### Who do I talk to? ###
 
 * authors Ayush Joshi and Anil Tilve.
-* Other community or team contact
