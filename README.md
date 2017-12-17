@@ -8,7 +8,7 @@ This README would help you understand the application and how to get it up runni
 * Some Important Funcationality includes, captionaning the photo, tagging the photos, moving and copying photos, and search photos.
 * We optimized some of the Scenes and funcationality after submitting the overview documentation.
 
-[embed]https://github.com/aj470/Photos/blob/master/docs/Photos%20Storyboard.pdf[/embed]
+[embed]https://github.com/aj470/Photos/blob/master/docs/Photos%20Storyboard.pdf [/embed]
 
 ### How do I get set up? ###
 
